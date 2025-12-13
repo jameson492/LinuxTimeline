@@ -25,7 +25,7 @@
 "//!",,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "#","Nodes",,,,,,,,,,,,,,,
-"#","Name","Color","Parent","Upstream","Secoundary Upstream","Start","Stop","Icon","Description","[Change_Name","Change_Parent","Change_upstream","Change_secoundary upstream","WHEN","Description","["Change_Name","Change_Parent","Change_upstream","Change_secoundary upstream","WHEN","Description",". . . ]]",,
+"#","Name","Color","Parent","Upstream","Secoundary Upstream","Start","Stop","Icon","Description","[Change_Name","Change_Parent","Change_upstream","Change_secoundary upstream","WHEN","Description","["Change_Name","Change_Parent","Change_upstream","Change_secoundary upstream","WHEN","Description",". . . ]]"
 "N","SLS","#9c8ac4",,"1992.6","1994.1",,"https://distroware.gitlab.io/os/Linux/s/sls",,,,,,,,,
 "N","Slackware","#000","SLS","1993.7.16",,"images/slackware.svg","https://distroware.gitlab.io/os/Linux/s/slackware",,,,,,,,,
 "N","S.u.S.E","#4bb679","Slackware","1994.3","1996.5",,"https://distroware.gitlab.io/os/Linux/o/opensuse",,,,,,,,,
